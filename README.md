@@ -6,4 +6,4 @@ Desafio de Projeto sobre Git/GitHub
 
 
 
-<a href="https://www.markdownguide.org/basic-syntax/">Sintaxe Básica Markdown</a> 
+<a href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noopener noreferrer">Sintaxe Básica Markdown</a>
